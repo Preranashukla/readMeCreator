@@ -1,5 +1,5 @@
 
-  # Readme Generator
+  # Readme.md Generator
   ## Table of Contents
   * [License](#license)
   * [Installation](#installation)
@@ -11,24 +11,24 @@
   * [Github](#github)
    
   ### License
-  ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
-  ![License: Apache](https://opensource.org/licenses/Apache-2.0)
+  [![License: Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+  https://opensource.org/licenses/Apache-2.0
   This application is licensed under Apache License 2.0 license.
   ### Installation
-  vscode
+  Best approch is to clone the repo using Visual studio code.
   ### Testing
-  test
+  Test
   ### Description
-  generator
+  Its a node application which will generate the readme.md file every time you run the application.
   ### Languages
-  js,html,css,node,jquery
+  node,jquery
   ### Contributors
-  pshukla
+  N/A
   ### Email
   If you have any questions please reach out by email. 
   [Email](shuklaprerana01@gmail.com)
   
   ### Github
   If you'd like to see my other work please visit my github.
-  [Github](https://github.com/pshukla)
+  [Github](https://github.com/Preranashukla)
    
